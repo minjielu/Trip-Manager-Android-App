@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trip Manager</string>
+    <string name="title_activity_locate_map">Map</string>
+    <string name="title_activity_map_route">Map</string>
+</resources>
